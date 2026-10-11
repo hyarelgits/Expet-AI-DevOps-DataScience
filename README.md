@@ -142,3 +142,18 @@
 ┌──────────┐      ┌──────────┐
 │Prometheus│─────▶│Grafana   │
 └──────────┘      └──────────┘
+
+
+How to explain to learners in 30 seconds
+Frontend sends request.
+FastAPI receives request.
+ML Model predicts placement probability.
+Ollama LLM answers AI-related queries.
+Application is packaged into a Docker Image.
+Image is stored in Docker Hub.
+Kubernetes runs and scales containers.
+Jenkins automates build and deployment.
+ArgoCD performs GitOps synchronization.
+Prometheus + Grafana monitor the application.
+
+This single diagram covers Python, ML, AI, Ollama, Docker, Kubernetes, Jenkins, GitOps, ArgoCD, Monitoring, and DevOps in one architecture view.
